@@ -3,16 +3,16 @@ const CONFIG = {
   profile: {
     name: "Digitalmall",
     image: "/logo.webp", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
+    role: "Share the great digital works",
     bio: "your digital world",
     email: "einkyhuang@gmail.com",
-    linkedin: "morethanmin",
-    github: "morethanmin",
+    linkedin: "",
+    github: "",
     instagram: "",
   },
   projects: [
     {
-      name: `morethan-log`,
+      name: `Digital Mall`,
       href: "https://github.com/morethanmin/morethan-log",
     },
   ],
@@ -24,7 +24,7 @@ const CONFIG = {
 
   // CONFIG configration (required)
   link: "https://morethan-log.vercel.app",
-  since: 2022, // If leave this empty, current year will be used.
+  since: 2023, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
 
